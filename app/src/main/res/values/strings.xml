@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlideCacheSample</string>
+    <string name="loading">Loading %d/%d</string>
+</resources>
